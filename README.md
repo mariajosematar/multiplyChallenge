@@ -1,9 +1,5 @@
 # Multiply Challenge
 
-<div align="center">
-    <img src="inserta_aquí_una_imagen_relacionada_con_el_desafío.png" alt="Multiply Challenge Logo">
-</div>
-
 ## Descripción
 
 Bienvenido al desafío Multiply Challenge. Este proyecto implementa una solución en Python para generar números aleatorios, multiplicarlos y mostrar los resultados. El desafío consiste en imprimir los resultados de A y C hasta que C sea igual a 4, momento en el cual se mostrará un mensaje de éxito junto con los valores de A y B que llevaron a C = 4.
