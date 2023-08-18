@@ -42,7 +42,7 @@ Success! A: 2, B: 9
 
 ## Contacto
 
-Si tienes alguna pregunta o comentario sobre este desafío, no dudes en contactarme por correo electrónico a matarmariajose@gmail.com (mailto:tucorreo@email.com).
+Si tienes alguna pregunta o comentario sobre este desafío, no dudes en contactarme por correo electrónico a matarmariajose@gmail.com
 
 ---
 
